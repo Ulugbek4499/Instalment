@@ -1,0 +1,17 @@
+D:\PDP\Project\Instalment\DemoInstallmentScoringSystem\bin\Debug\net7.0\Installment.exe
+D:\PDP\Project\Instalment\DemoInstallmentScoringSystem\bin\Debug\net7.0\Installment.deps.json
+D:\PDP\Project\Instalment\DemoInstallmentScoringSystem\bin\Debug\net7.0\Installment.runtimeconfig.json
+D:\PDP\Project\Instalment\DemoInstallmentScoringSystem\bin\Debug\net7.0\Installment.dll
+D:\PDP\Project\Instalment\DemoInstallmentScoringSystem\bin\Debug\net7.0\Installment.pdb
+D:\PDP\Project\Instalment\DemoInstallmentScoringSystem\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\PDP\Project\Instalment\DemoInstallmentScoringSystem\obj\Debug\net7.0\Installment.csproj.AssemblyReference.cache
+D:\PDP\Project\Instalment\DemoInstallmentScoringSystem\obj\Debug\net7.0\Installment.GeneratedMSBuildEditorConfig.editorconfig
+D:\PDP\Project\Instalment\DemoInstallmentScoringSystem\obj\Debug\net7.0\Installment.AssemblyInfoInputs.cache
+D:\PDP\Project\Instalment\DemoInstallmentScoringSystem\obj\Debug\net7.0\Installment.AssemblyInfo.cs
+D:\PDP\Project\Instalment\DemoInstallmentScoringSystem\obj\Debug\net7.0\Installment.csproj.CoreCompileInputs.cache
+D:\PDP\Project\Instalment\DemoInstallmentScoringSystem\obj\Debug\net7.0\Installment.csproj.CopyComplete
+D:\PDP\Project\Instalment\DemoInstallmentScoringSystem\obj\Debug\net7.0\Installment.dll
+D:\PDP\Project\Instalment\DemoInstallmentScoringSystem\obj\Debug\net7.0\refint\Installment.dll
+D:\PDP\Project\Instalment\DemoInstallmentScoringSystem\obj\Debug\net7.0\Installment.pdb
+D:\PDP\Project\Instalment\DemoInstallmentScoringSystem\obj\Debug\net7.0\Installment.genruntimeconfig.cache
+D:\PDP\Project\Instalment\DemoInstallmentScoringSystem\obj\Debug\net7.0\ref\Installment.dll

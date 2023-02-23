@@ -1,0 +1,26 @@
+[
+  {
+    "PassportId": "AC1234",
+    "SocialStatus": 1,
+    "Income": 300.0,
+    "Debt": 500.0
+  },
+  {
+    "PassportId": "AA77777",
+    "SocialStatus": 2,
+    "Income": 600.0,
+    "Debt": 50.0
+  },
+  {
+    "PassportId": "AF45678",
+    "SocialStatus": 0,
+    "Income": 100.0,
+    "Debt": 800.0
+  },
+  {
+    "PassportId": "AV55555",
+    "SocialStatus": 0,
+    "Income": 1500.0,
+    "Debt": 90.0
+  }
+]

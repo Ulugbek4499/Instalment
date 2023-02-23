@@ -1,0 +1,34 @@
+[
+  {
+    "PassportId": "AC1234",
+    "FirstName": "Ali",
+    "LastName": "Aliyev",
+    "MidName": "Ali o'g'li",
+    "Region": "Uzbekistan",
+    "BirthDate": "2000-12-12"
+  },
+  {
+    "PassportId": "AA77777",
+    "FirstName": "Vali",
+    "LastName": "Valiyev",
+    "MidName": "Valiyevch",
+    "Region": "Vali shahri",
+    "BirthDate": "1911-02-02"
+  },
+  {
+    "PassportId": "AF45678",
+    "FirstName": "Jones",
+    "LastName": "Jone",
+    "MidName": "Joe",
+    "Region": "Brazil",
+    "BirthDate": "1998-03-03"
+  },
+  {
+    "PassportId": "AV55555",
+    "FirstName": "Yugurdi",
+    "LastName": "Yugurdiyev",
+    "MidName": "Yugurdiyech",
+    "Region": "Yugur shahri",
+    "BirthDate": "1967-05-05"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "PassportId": "AC1234",
+    "IsConvicted": true,
+    "IsDivorced": false
+  },
+  {
+    "PassportId": "AA77777",
+    "IsConvicted": false,
+    "IsDivorced": true
+  },
+  {
+    "PassportId": "AF45678",
+    "IsConvicted": false,
+    "IsDivorced": false
+  },
+  {
+    "PassportId": "AV55555",
+    "IsConvicted": true,
+    "IsDivorced": true
+  }
+]
